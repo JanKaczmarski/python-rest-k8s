@@ -1,0 +1,25 @@
+1. framework:
+    - django
+2. databases:
+    - general storage:
+        - postgreSQL
+    - cache:
+        - redis
+    - something like storing messages:
+        - cassandra
+3. containerization:
+    - docker
+4. orchestration:
+    - k8s
+5. Web hosting:
+    - MS Azure 
+      AWS
+6. CI/CD pipeline:
+    - jenkins - demands a server 
+      github actions - serverless (small project and yaml composition of file)
+
+
+APP Subject:
+    1. WildCards for college
+    2. tool to help learn and sort knowledge from math 
+    3. Similar to wiki 
